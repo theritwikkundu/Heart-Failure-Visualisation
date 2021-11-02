@@ -1,3 +1,14 @@
+<div id="top"></div>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+---
+
 <h1 align="center">Heart Failure Visualisation</h1>
 
 _Heart failure is a chronic condition and with the high increasing rate of heart diseases it becomes immensely important for us to properly understand the disease and combat it. The primary idea of the project is to identify the best classifier algorithm suitable for this task._
@@ -42,3 +53,19 @@ _Heart failure is a chronic condition and with the high increasing rate of heart
 ---
 
 Please ⭐️ this repository if this project helped you!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
+[contributors-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
+[forks-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/network/members
+[stars-shield]: https://img.shields.io/github/stars/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
+[stars-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/stargazers
+[issues-shield]: https://img.shields.io/github/issues/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
+[issues-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/issues
+[license-shield]: https://img.shields.io/github/license/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
+[license-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/theritwikkundu/
