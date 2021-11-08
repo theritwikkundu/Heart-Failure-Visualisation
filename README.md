@@ -68,4 +68,4 @@ Please ⭐️ this repository if this project helped you!
 [license-shield]: https://img.shields.io/github/license/theritwikkundu/Heart-Failure-Visualisation.svg?style=for-the-badge
 [license-url]: https://github.com/theritwikkundu/Heart-Failure-Visualisation/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/theritwikkundu/
+[linkedin-url]: https://www.linkedin.com/in/kundu-ritwik/
